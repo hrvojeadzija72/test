@@ -1,15 +1,13 @@
 ---
 name: User Story
 about: Writing new user stories
-title: ''
+title: 'Need a service that has a counter'
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+As a user, I need a service that has a counter so that I can keep track of how many times something has been done.
    
  ### Details and Assumptions
  * [document what you know]
